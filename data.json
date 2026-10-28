@@ -1,0 +1,131 @@
+{
+ "projects": [
+  {
+   "t": "Enterprise RAG Knowledge Assistant",
+   "d": "Production-ready asynchronous microservice using FastAPI, LangChain and FAISS vector search for accurate, context-aware document querying, with Docker containerization and GitHub Actions CI/CD workflows.",
+   "g": [
+    "LangChain",
+    "FastAPI",
+    "FAISS",
+    "Docker",
+    "CI/CD"
+   ],
+   "l": "https://github.com/alsualiyevas/RAG-with-Langchain-and-FastAPI"
+  },
+  {
+   "t": "UrbanScan AI",
+   "d": "Random Forest pipeline on Azersky/Sentinel-2 satellite imagery to analyze land-cover change and spatial risks in Khankendi, for Azercosmos.",
+   "g": [
+    "Python",
+    "Random Forest",
+    "Remote Sensing"
+   ],
+   "l": "https://github.com/alsualiyevas/UrbanScan-AI"
+  },
+  {
+   "t": "Brain Tumor Segmentation",
+   "d": "U-Net trained in PyTorch on 3,000+ MRI scans (~0.745 Dice score), with a FastAPI web tool for real-time segmentation.",
+   "g": [
+    "PyTorch",
+    "U-Net",
+    "FastAPI"
+   ],
+   "l": "https://github.com/alsualiyevas/brain-tumor-segmentation-xai"
+  },
+  {
+   "t": "AI Fraud Detector",
+   "d": "Automated n8n workflow with AI models that monitors transaction streams and flags anomalies in real time.",
+   "g": [
+    "n8n",
+    "AI Models",
+    "Automation"
+   ],
+   "l": "https://github.com/alsualiyevas/n8n-ai-security-bot"
+  },
+  {
+   "t": "Superstore Sales Analysis",
+   "d": "Retail sales analysis in Python to extract seasonal trends and support data-driven business decisions.",
+   "g": [
+    "Python",
+    "Pandas",
+    "Data Analysis"
+   ],
+   "l": "https://github.com/alsualiyevas/Superstore-Sales-Data-Analysis"
+  }
+ ],
+ "skills": {
+  "AI / ML": [
+   "Machine Learning",
+   "PyTorch",
+   "Random Forest",
+   "U-Net",
+   "Prompt Engineering",
+   "AI-Assisted Prototyping",
+   "Claude"
+  ],
+  "Software Engineering": [
+   "Python",
+   "JavaScript",
+   "HTML",
+   "CSS",
+   "Git / GitHub",
+   "FastAPI"
+  ],
+  "Data & Tools": [
+   "Oracle SQL",
+   "MySQL",
+   "Power BI",
+   "Tableau",
+   "Excel",
+   "n8n Automation"
+  ]
+ },
+ "timeline": [
+  {
+   "y": "June 2026 – September 2026",
+   "t": "Data Science Intern",
+   "s": "QSS Analytics"
+  },
+  {
+   "y": "June 2026 – September 2026",
+   "t": "Python Mentor",
+   "s": "Data Science Academy"
+  },
+  {
+   "y": "Expected June 2028",
+   "t": "B.S. Computer Engineering",
+   "s": "Azerbaijan University of Economics (UNEC) · GPA 3.34"
+  },
+  {
+   "y": "National competition",
+   "t": "1st Place — Digital Idea Competition",
+   "s": "Kid Safety Simulation Platform"
+  },
+  {
+   "y": "August 2026 – October 2026",
+   "t": "Digital Security Ambassador",
+   "s": "World AzeYouth Union"
+  },
+  {
+   "y": "December 2025",
+   "t": "Volunteer — HCI-E Conference",
+   "s": "Eurasian Conference on Human-Computer Interaction"
+  },
+  {
+   "y": "Volunteer",
+   "t": "RIIB",
+   "s": "Volunteer activity"
+  }
+ ],
+ "certs": [
+  "Machine Learning — DeepLearning.AI, Stanford",
+  "Machine Learning with Python — IBM",
+  "Introduction to Data Science — Cisco",
+  "SQL for Data Science — UC Davis",
+  "Visualization with Tableau — UC Davis",
+  "Data Analytics Job Simulation — Deloitte",
+  "SQL Basic & Intermediate — HackerRank",
+  "AI Skills 4 Women — Founderz",
+  "Aptis General English C1 — British Council"
+ ]
+}
